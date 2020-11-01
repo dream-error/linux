@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
         {
             List_Add_Node(list, num);
             List_Show_Data(list);
-
+            printf("臭弟弟");
         }
         else if(num < 0)
         {
